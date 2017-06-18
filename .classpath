@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/code/JAVA library/Gson/gson-2.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/code/JAVA library/java_xl.jar"/>
+	<classpathentry kind="lib" path="D:/code/JAVA library/commons-math3-3.6.1/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/code/JAVA library/commons-math3-3.6.1/jdistlib-0.4.5-bin.jar"/>
+	<classpathentry kind="lib" path="D:/code/JAVA library/commons-math3-3.6.1/javaml-0.1.7.jar"/>
+	<classpathentry kind="lib" path="D:/code/JAVA library/commonTool.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
